@@ -5,7 +5,8 @@
 </div>
 
 ### Hi there 👋
-### :man_technologist: About Me :
+### :man_technologist: About Me : 
+I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 <!--
 
 **da477/da477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
