@@ -11,6 +11,10 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <!-- - :seedling: Exploring Technical Content Writing. -->
 - :zap: In my free time, I solve problems on HackerRank, read tech articles and cycling.
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 <!--
 
 **da477/da477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
