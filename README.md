@@ -3,7 +3,9 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=da477&style=flat-square&color=blue" alt=""/>
 </div>
- ### Hi there 👋
+
+### Hi there 👋
+
 <!--
 
 **da477/da477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
