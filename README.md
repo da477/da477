@@ -1,11 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW8wN296NTh1cHdhcTZscHhwamdwcnVic2FxZWVmdjJheGl5M2NqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hO8uTzEOefFh3Yv5gm/giphy.gif" width="100"/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=da477&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=da477&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+
 <!--
 ### Hi there 👋
 **da477/da477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
