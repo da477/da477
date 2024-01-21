@@ -17,7 +17,6 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -43,7 +42,6 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![SOLID](https://img.shields.io/badge/SOLID-%23B4404B.svg?style=for-the-badge&logo=solid&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-%236070C0.svg?style=for-the-badge&logo=lombok&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![iTextPDF](https://img.shields.io/badge/iTextPDF-%2344ADD1.svg?style=for-the-badge&logo=itextpdf&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jwt&logoColor=white)
 
 <!--
