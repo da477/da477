@@ -42,6 +42,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![Lombok](https://img.shields.io/badge/Lombok-%236070C0.svg?style=for-the-badge&logo=lombok&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jwt&logoColor=white)
+![Vaadin](https://img.shields.io/badge/Vaadin-%2300789E.svg?style=for-the-badge&logo=vaadin&logoColor=white)
 
 ---
 
