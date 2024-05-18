@@ -4,12 +4,14 @@
   <img src="https://komarev.com/ghpvc/?username=da477&style=flat-square&color=blue" alt=""/>
 </div>
 
+## Passionate Java Developer with a knack for crafting efficient solutions
+
 ### Hi there 👋
-### :man_technologist: About Me : 
+
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m working as a Software Development Engineer and contributing to backend to create a reliable ERP system.
+- :telescope: Currently working as a Software Development Engineer, contributing to creating a reliable ERP system.
 <!-- - :seedling: Exploring Technical Content Writing. -->
-- :zap: In my free time, I solve problems on HackerRank, read tech articles and cycling.
+- :zap: In my free time, I solve problems on HackerRank, read articles, and enjoy cycling.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -51,6 +53,8 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=da477&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da477&layout=compact&theme=vision-friendly-light&hide_border=true)
 
+### 📫 How to reach me:
+- [LinkedIn](http://www.linkedin.com/in/da477)
 
 <!--
 **da477/da477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
