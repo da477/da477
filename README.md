@@ -17,6 +17,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :hammer_and_wrench: Languages and Tools :
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -37,7 +38,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![Agile](https://img.shields.io/badge/Agile-%23000000.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![Jackson](https://img.shields.io/badge/Jackson-%2344ADD1.svg?style=for-the-badge&logo=jackson&logoColor=white)
 ![Stream API](https://img.shields.io/badge/Stream%20API-%23EF8E1F.svg?style=for-the-badge&logo=java&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-%23000000.svg?style=for-the-badge&logo=ajax&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Concurrency](https://img.shields.io/badge/Concurrency-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-%23B4404B.svg?style=for-the-badge&logo=solid&logoColor=white)
